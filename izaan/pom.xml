@@ -53,7 +53,7 @@
                 <version>2.20.1</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suitexmlFile>target/test-classes/EcommerceTestRunnerFile.xml</suitexmlFile>
+                        <suitexmlFile>src/test/resources/IzaanRunner.xml</suitexmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>

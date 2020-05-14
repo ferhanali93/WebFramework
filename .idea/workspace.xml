@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="505bdb70-416a-4517-a4bd-44e428b32dea" name="Default Changelist" comment="" />
+    <list default="true" id="505bdb70-416a-4517-a4bd-44e428b32dea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/izaan/src/test/java/application_page_base/ApplicationPageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/izaan/src/test/java/page_objects/IzaanLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/izaan/src/test/java/page_objects_test/IzaanLoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/izaan/target/test-classes/application_page_base/ApplicationPageBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/izaan/target/test-classes/page_objects/IzaanLoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/izaan/target/test-classes/page_objects_test/IzaanLoginPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/target/classes/base/BrowserDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/generic/target/classes/base/BrowserDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/izaan/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/izaan/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/izaan/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/izaan/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +27,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +39,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1bgglaU3p6AfZ8JxCkEEE6hfljU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,6 +47,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
@@ -44,6 +61,11 @@
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="page_objects_test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="page_objects_test" />
+      <recent name="application_page_base" />
+      <recent name="page_objects" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/izaan/src/test/resources" />
@@ -84,7 +106,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589059303334</updated>
-      <workItem from="1589059310992" duration="8659000" />
+      <workItem from="1589059310992" duration="10618000" />
+      <workItem from="1589090799741" duration="1098000" />
     </task>
     <servers />
   </component>
@@ -104,26 +127,26 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="458" y="221" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1440.825@0.23.1440.825" timestamp="1589062884699" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1589067768315">
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1589424472354">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1589067768315" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1589067768313">
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1589424472354" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1589424472350">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1589067768313" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1589067768312">
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1589424472350" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1589424472345">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1589067768312" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1589067768314">
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1589424472345" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1589424472351">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1589067768314" />
-    <state x="258" y="99" key="Maven.ArtifactSearchDialog" timestamp="1589062020395">
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1589424472351" />
+    <state x="258" y="99" key="Maven.ArtifactSearchDialog" timestamp="1589085216110">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state x="258" y="99" key="Maven.ArtifactSearchDialog/0.23.1440.825@0.23.1440.825" timestamp="1589062020395" />
+    <state x="258" y="99" key="Maven.ArtifactSearchDialog/0.23.1440.825@0.23.1440.825" timestamp="1589085216110" />
     <state x="229" y="74" key="SettingsEditor" timestamp="1589063484508">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
