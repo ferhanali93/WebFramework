@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="505bdb70-416a-4517-a4bd-44e428b32dea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/izaan/src/test/java/application_page_base/ApplicationPageBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/izaan/src/test/java/page_objects/IzaanLoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/izaan/src/test/java/page_objects_test/IzaanLoginPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/izaan/target/test-classes/application_page_base/ApplicationPageBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/izaan/target/test-classes/page_objects/IzaanLoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/izaan/target/test-classes/page_objects_test/IzaanLoginPageTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/target/classes/base/BrowserDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/generic/target/classes/base/BrowserDriver.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/izaan/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/izaan/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/izaan/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/izaan/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/izaan/src/test/java/page_objects/IzaanLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/izaan/src/test/java/page_objects/IzaanLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/izaan/src/test/java/page_objects_test/IzaanLoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/izaan/src/test/java/page_objects_test/IzaanLoginPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/izaan/target/test-classes/page_objects/IzaanLoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/izaan/target/test-classes/page_objects/IzaanLoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/izaan/target/test-classes/page_objects_test/IzaanLoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/izaan/target/test-classes/page_objects_test/IzaanLoginPageTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +34,23 @@
     </option>
   </component>
   <component name="ProjectId" id="1bgglaU3p6AfZ8JxCkEEE6hfljU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/izaan/src/test/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/izaan" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -62,24 +60,94 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="page_objects_test" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/izaan/src/test" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="page_objects_test" />
       <recent name="application_page_base" />
       <recent name="page_objects" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/izaan" />
       <recent name="$PROJECT_DIR$/izaan/src/test/resources" />
       <recent name="$PROJECT_DIR$/generic" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/izaan/src/test" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG./Users/ferhanali/IdeaProjects/WebFramework/izaan/src/test/resources/IzaanRunner.xml">
+    <configuration name="IzaanLoginPageTest (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="izaan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page_objects_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="page_objects_test" />
+      <option name="MAIN_CLASS_NAME" value="page_objects_test.IzaanLoginPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IzaanLoginPageTest (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="izaan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page_objects_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="page_objects_test" />
+      <option name="MAIN_CLASS_NAME" value="page_objects_test.IzaanLoginPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IzaanLoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="izaan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page_objects_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="page_objects_test" />
+      <option name="MAIN_CLASS_NAME" value="page_objects_test.IzaanLoginPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IzaanLoginPageTest.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="izaan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page_objects_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="page_objects_test" />
+      <option name="MAIN_CLASS_NAME" value="page_objects_test.IzaanLoginPageTest" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="/Users/ferhanali/IdeaProjects/WebFramework/izaan/src/test/resources/IzaanRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="izaan" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/izaan/src/test/resources/IzaanRunner.xml" />
@@ -93,6 +161,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG./Users/ferhanali/IdeaProjects/WebFramework/izaan/src/test/resources/IzaanRunner.xml" />
+        <item itemvalue="TestNG.IzaanLoginPageTest" />
+        <item itemvalue="TestNG.IzaanLoginPageTest (3)" />
+        <item itemvalue="TestNG.IzaanLoginPageTest (2)" />
+        <item itemvalue="TestNG.IzaanLoginPageTest.loginTest" />
       </list>
     </recent_temporary>
   </component>
@@ -107,12 +179,15 @@
       <option name="presentableId" value="Default" />
       <updated>1589059303334</updated>
       <workItem from="1589059310992" duration="10618000" />
-      <workItem from="1589090799741" duration="1098000" />
+      <workItem from="1589090799741" duration="6549000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="102" key="#Project_Structure" timestamp="1589064407168">
@@ -127,22 +202,26 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="458" y="221" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1440.825@0.23.1440.825" timestamp="1589062884699" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1589424472354">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="1398" height="249" key="GridCell.Tab.0.bottom" timestamp="1589509876476">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1589424472354" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1589424472350">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="1398" height="249" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589509876476" />
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1589509521537" />
+    <state width="1398" height="249" key="GridCell.Tab.0.center" timestamp="1589509876474">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1589424472350" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1589424472345">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="1398" height="249" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589509876474" />
+    <state width="1398" height="217" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1589509521535" />
+    <state width="1398" height="249" key="GridCell.Tab.0.left" timestamp="1589509876472">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1589424472345" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1589424472351">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="1398" height="249" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589509876472" />
+    <state width="1398" height="217" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1589509521535" />
+    <state width="1398" height="249" key="GridCell.Tab.0.right" timestamp="1589509876475">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1589424472351" />
+    <state width="1398" height="249" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589509876475" />
+    <state width="1398" height="217" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1589509521536" />
     <state x="258" y="99" key="Maven.ArtifactSearchDialog" timestamp="1589085216110">
       <screen x="0" y="23" width="1440" height="825" />
     </state>

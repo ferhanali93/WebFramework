@@ -27,9 +27,9 @@ public class IzaanLoginPageTest extends BrowserDriver {
     public Object[][] readData() throws Exception {
         String sheetName = null;
         MyDataReader myDataReader = new MyDataReader();
-        String path = System.getProperty("user.dir") + "/testData/TestData.xlsx";
-        myDataReader.setExcelFile(path);
-        String environment = System.getProperty("env", "PROD");
+        //String path = System.getProperty("/Users/ferhanali/IdeaProjects/WebFramework/izaan/testData/TestData.xlsx");
+        myDataReader.setExcelFile("/Users/ferhanali/IdeaProjects/WebFramework/izaan/testData/TestData.xlsx");
+        String environment = System.getProperty("env", "QA");
 
         if(environment.equals("QA")){
             sheetName="Sheet3";}
@@ -42,7 +42,7 @@ public class IzaanLoginPageTest extends BrowserDriver {
     }
 
     @Test(dataProvider ="readData")
-    public void loginTest(String e, String p, String em){
+    public void loginTest(String e, String p, String em) throws InterruptedException {
         // Go to log in page
         objHomePage.trainLogin();
         // Send email and password, click submit

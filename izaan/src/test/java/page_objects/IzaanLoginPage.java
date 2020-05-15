@@ -23,10 +23,11 @@ public class IzaanLoginPage {
    // @FindBy(how = How.TAG_NAME, tagName = "input")
   //  private List<WebElement> inputTag =
 
-    public void login(String email, String password){
+    public void login(String email, String password) throws InterruptedException {
 
         ApplicationPageBase.sendKeys("email address box", emailBox, email);
         ApplicationPageBase.sendKeys("password box", passwordBox, password);
+        Thread.sleep(4000);
         ApplicationPageBase.click(submitButton, "submit button");
 
     }
